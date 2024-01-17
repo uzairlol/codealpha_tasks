@@ -1,11 +1,9 @@
 Task 3: A/B Testing Analysis - 
 Conduct an A/B testing analysis to evaluate the impact of a change or intervention. Analyze the results using statistical techniques and draw actionable insights.
 
-1. **Import Libraries:**
-    -Begin by importing essential Python libraries such as pandas, numpy, and scipy.stats for data manipulation, numerical operations, and statistical testing, respectively.
+1. **Import Libraries:** Begin by importing essential Python libraries such as pandas, numpy, and scipy.stats for data manipulation, numerical operations, and statistical testing, respectively.
 
-3. **Load A/B Testing Data:**
-    -Use pandas to load your A/B testing data from a CSV file ('ab_testing_data.csv' in this case) into a DataFrame named 'ab_data'.
+3. **Load A/B Testing Data:** Use pandas to load your A/B testing data from a CSV file ('ab_testing_data.csv' in this case) into a DataFrame named 'ab_data'.
 
 5. **Group Data:** Assume 'group' is the column indicating group membership (A or B), and 'outcome' is the binary outcome variable. Create separate datasets ('group_a_data' and 'group_b_data') for groups A and B.
 
